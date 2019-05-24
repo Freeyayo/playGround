@@ -1,1 +1,1 @@
-![avatar](avatar.png)
+![avatar](illustration.png)
